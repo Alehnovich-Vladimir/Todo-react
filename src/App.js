@@ -10,6 +10,10 @@ function App() {
     },
     {
       text: 'Разработать ToDo на ReactJS',
+      completed: true,
+    },
+    {
+      text: 'Выполнить деплой приложения на Vercel',
       completed: false,
     },
     {
